@@ -1,0 +1,20 @@
+Instructions for use:
+The pages Home(The links be in red) and Ler have free access but all pages to management for model need permission.
+
+Login:marcos
+Password:1234
+
+Exists one archive with name Benfeitoria.sql into this directory, please create database Benfeitoria and import the archive.
+
+Obs: I put one lib for charts into model, but i don't resolved one little problem(the legends no follow the graphic if rotate you cel phone (
+i will resolve it into coming soon)).
+If you want see it just uncomment (view/textos/gerenciar.php)
+<!-- chart bar
+
+           <div class="col-md-12 col-md-offset6 text-center ts-intro">
+            <div class="col-md-6">
+            <h3>Mais Visitadas</h3>
+            <div id="graph"></div>
+            </div>
+--> 
+
